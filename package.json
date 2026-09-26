@@ -4,6 +4,7 @@
   "scripts": { "start": "node bridge/index.js" },
   "dependencies": {
     "express": "^4.18.0",
-    "ws": "^8.0.0"
+    "ws": "^8.0.0",
+    "@modelcontextprotocol/sdk": "^1.0.1"
   }
 }
